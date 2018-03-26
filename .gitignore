@@ -1,3 +1,4 @@
 .project
 *.pid
 *.log
+Applications/Shadowsocks/config.php
